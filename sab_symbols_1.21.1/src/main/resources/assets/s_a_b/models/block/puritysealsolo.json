@@ -1,0 +1,9 @@
+{
+  "parent": "s_a_b:custom/purity_seal_solo",
+  "textures": {
+    "all": "s_a_b:block/purity_seal",
+    "particle": "s_a_b:block/purity_seal",
+    "1": "s_a_b:block/purity_seal"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "s_a_b"
+version = "1.0.0"
+displayName = "Steel armor blocks - Symbols (1.21.1 port)"
+description = '''Personal-use port of the decorative symbol blocks of "Steel armor blocks" 1.4.3 (Forge 1.20.1) to NeoForge 1.21.1. Not for redistribution.'''
+authors = "port for personal use; original mod by minucios"
+
+[[dependencies.s_a_b]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.s_a_b]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"

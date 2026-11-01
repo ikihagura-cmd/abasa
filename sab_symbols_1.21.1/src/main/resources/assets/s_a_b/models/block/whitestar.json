@@ -1,0 +1,9 @@
+{
+  "parent": "s_a_b:custom/flat",
+  "textures": {
+    "all": "s_a_b:block/white_star",
+    "particle": "s_a_b:block/white_star",
+    "25": "s_a_b:block/white_star"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "s_a_b:block/whitestar"
+    },
+    "facing=east": {
+      "model": "s_a_b:block/whitestar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "s_a_b:block/whitestar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "s_a_b:block/whitestar",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "s_a_b:block/whitestar",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "s_a_b:block/whitestar",
+      "x": 90
+    }
+  }
+}

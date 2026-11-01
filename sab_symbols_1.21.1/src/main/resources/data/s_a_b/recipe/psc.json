@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "minecraft:candles" },
+    { "item": "minecraft:paper" }
+  ],
+  "result": { "id": "s_a_b:puritysealsolo", "count": 1 }
+}

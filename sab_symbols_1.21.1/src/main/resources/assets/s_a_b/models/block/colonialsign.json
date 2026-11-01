@@ -1,0 +1,9 @@
+{
+  "parent": "s_a_b:custom/flat",
+  "textures": {
+    "all": "s_a_b:block/colonial_sign",
+    "particle": "s_a_b:block/colonial_sign",
+    "25": "s_a_b:block/colonial_sign"
+  },
+  "render_type": "translucent"
+}
