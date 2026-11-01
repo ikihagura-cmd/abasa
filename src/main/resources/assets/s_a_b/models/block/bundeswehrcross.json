@@ -1,0 +1,9 @@
+{
+  "parent": "s_a_b:custom/flat",
+  "textures": {
+    "all": "s_a_b:block/bundeswehr_cross",
+    "particle": "s_a_b:block/bundeswehr_cross",
+    "25": "s_a_b:block/bundeswehr_cross"
+  },
+  "render_type": "translucent"
+}

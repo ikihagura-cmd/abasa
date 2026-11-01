@@ -1,0 +1,9 @@
+{
+  "parent": "s_a_b:custom/aquila",
+  "textures": {
+    "all": "s_a_b:block/aquila",
+    "particle": "s_a_b:block/aquila",
+    "1": "s_a_b:block/aquila"
+  },
+  "render_type": "cutout"
+}

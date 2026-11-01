@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "s_a_b:block/bundeswehrcross"
+    },
+    "facing=east": {
+      "model": "s_a_b:block/bundeswehrcross",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "s_a_b:block/bundeswehrcross",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "s_a_b:block/bundeswehrcross",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "s_a_b:block/bundeswehrcross",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "s_a_b:block/bundeswehrcross",
+      "x": 90
+    }
+  }
+}
