@@ -1,9 +1,0 @@
-{
-  "parent": "s_a_b:custom/aquila_skull",
-  "textures": {
-    "all": "s_a_b:block/aquila_skull",
-    "particle": "s_a_b:block/aquila_skull",
-    "4": "s_a_b:block/aquila_skull"
-  },
-  "render_type": "cutout"
-}

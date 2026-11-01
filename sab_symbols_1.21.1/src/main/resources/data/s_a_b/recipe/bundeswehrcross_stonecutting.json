@@ -1,8 +1,0 @@
-{
-  "neoforge:conditions": [
-    { "type": "neoforge:mod_loaded", "modid": "create" }
-  ],
-  "type": "minecraft:stonecutting",
-  "ingredient": { "item": "create:iron_sheet" },
-  "result": { "id": "s_a_b:bundeswehrcross", "count": 1 }
-}
